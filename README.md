@@ -1,10 +1,12 @@
-# issuetracker
-Issue Tracker For Mathematical Base Defenders
+ISSUE TRACKER HAS MOVED
 
-Request features or report bugs here.
+~~# issuetracker~~
+~~Issue Tracker For Mathematical Base Defenders~~
 
-**Do not report security vulnerabilities here, report it to the Game Master's email address: [mistertfy64@mistertfy64.com](mailto:mistertfy64@mistertfy64.com)**
+~~Request features or report bugs here.~~
 
-Please note that the game is in its development stage, and there's only one Game Master.
+~~**Do not report security vulnerabilities here, report it to the Game Master's email address: [mistertfy64@mistertfy64.com](mailto:mistertfy64@mistertfy64.com)**~~
 
-<h3><a href="https://github.com/mathematicalbasedefenders/issuetracker/issues/new">Click here to file a new issue</a><h3>
+~~Please note that the game is in its development stage, and there's only one Game Master.~~
+
+~~<h3><a href="https://github.com/mathematicalbasedefenders/issuetracker/issues/new">Click here to file a new issue</a><h3>~~
